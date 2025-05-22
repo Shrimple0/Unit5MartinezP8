@@ -68,6 +68,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Good 1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 47ca5943331fddb498b09b1404dd15f8, type: 3}
+      propertyPath: m_TagString
+      value: Good
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -147,3 +151,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 876a12cd5c4608246823ae32b619052d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pointValue: 20
+  explosionParticle: {fileID: 2478549635105912040, guid: ec46c8c4a3cbc429382ee48bd9169b45, type: 3}
